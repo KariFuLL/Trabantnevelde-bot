@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name Open Trabantnevelde bot
-// @namespace http://hibbard.eu/
+// @author Szente Daniel
 // @version 0.1
-// @description  Opens links from the CodeProject newsletter
+// @description  Login automaticly and starts the job 3
 // @match http://www.trabantnevelde.sztvm.org/
 // @match http://www.trabantnevelde.sztvm.org/index.php
 // ==/UserScript==
@@ -29,7 +29,7 @@
         const tab = window.open('http://www.trabantnevelde.sztvm.org/munka.php?id=3');
         setTimeout(() => {
             tab.close();
-        }, 3000);
+        }, 1500);
     }, 5000);
 
 })();
