@@ -21,4 +21,4 @@ A szkript a legtöbb modern böngészőre telepíthető.<br>
 
 ### Az alábbi funkciókkal rendelkezik a program:
 
-Megnyitást követően automatikus bejelentkezik és elindítja a legjobban fizető állást. Ezután átadja az irányítást a felhasználónak.
+Megnyitást követően automatikusan bejelentkezik és elindítja a legjobban fizető állást. Ezután átadja az irányítást a felhasználónak.
