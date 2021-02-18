@@ -15,7 +15,7 @@ A szkript a legtöbb modern böngészőre telepíthető.<br>
 2. A megjelenő oldalon kattints az **Install** gombra.
 3. Majd utána a bővítményeknél megkeressük a TamperMonkeyt és rámagyünk a **Kezelő fal** menüpontra.
 4. Ezt követően kiválasztjuk a botot, majd a 12. és 13. sorban átírjuk a megfelelő adatokat.
-5. Nyisd meg a Trabantneveldét(http://www.trabantnevelde.sztvm.org/), és élvezd.
+5. Nyisd meg a [Trabantneveldét](https://www.trabantnevelde.sztvm.org/), és élvezd.
 
 ## Mit tud?
 
